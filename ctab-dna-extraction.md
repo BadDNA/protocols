@@ -46,48 +46,50 @@ To remove PCR inhibitors from homogenates of plants prior to CTAB extraction
 
 1. Mix CTAB buffer, PVP, and B-mercaptoethanol as follows
 
-    |                 |     1X            |       30X     |       100X    |
+                      |     1X            |       30X     |       100X    |
      :------------    | :-----------:     | :-----------: | :-----------: |
-    CTAB Buffer       |   500.00 uL       |     15.0 mL   |    50.0 mL    |
-    PVP               |     0.02 g        |      0.6 g    |     2.0 g     |
-    B-mercaptoethanol |     2.5 uL        |     75.0 uL   |   250.0 uL    |
+    CTAB Buffer       |   500.00 uL       |     15.0 mL   |    50.0 mL
+    PVP               |     0.02 g        |      0.6 g    |     2.0 g
+    B-mercaptoethanol |     2.5 uL        |     75.0 uL   |   250.0 uL
 
-2. Add 500 uL of buffer mixture from above to pre-washed plant homogenates
+2. Add 20-30 uL of warm (55 C) CTAB buffer to a small amount (50 mg) of plant tissue in a mortar, and further grind the tissue for 2-3 minutes until it is a fine paste.  Add approximately 20 mg of the paste to a microtube (and do the same with the remaining paste if you have some left) [in hood]
 
-3. Incubate samples at 55 C for 1 h to overnight
+3. Add 500 uL of CTAB buffer mixture from above to the plant homogenates
 
-4. Add 500 uL 24:1 chloroform:isoamyl alcohol
+3. Incubate samples at 55 C for 1-2 h.  These can run overnight.
+
+4. Add 500 uL 24:1 chloroform:isoamyl alcohol to the microtube [in hood]
 
 5. Mix well by shaking
 
 6. Centrifuge tubes for 5-10 m at >10,000 RPM (or max for plate-centrifuge)
 
-7. Remove the aqueous phase by pipetting and transfer to a clean 1.5 mL microtube (do not pick up any of the interphase during pipetting)
+7. Remove the aqueous phase by pipetting and transfer to a clean 1.5 mL microtube (do not pick up any of the interphase during pipetting).  We typically only do this 1X as 2X doesn't return significantly better results, and pipetting around the interphase with 2X CI treatments is a little tough.
 
-8. Add 0.08 volumes of ice-cold 7.5 M ammonium acetate
+8. Add 0.08 volumes of ice-cold 7.5 M ammonium acetate [in flammables fridge].  The total volume from the CI treatment should be ~ 400 uL, so you should be adding ~ 32 uL.
 
-9. Add 0.54 volumes of ice-cold 100% isopropanol (2-propanol)
+9. Add 0.54 volumes of ice-cold 100% isopropanol (2-propanol) [in flammables freezer]. You should be adding around 234 uL.
 
 10. Mix well by shaking
 
-11. Place in freezer for 15 m to overnight
+11. Place in freezer for 15 m to overnight.  We have better yields overnight.
 
 12. Centrifuge for 3 m at >10,000 RPM (or max for plate-centrifuge)
 
-13. Pour or pipet off supernatant, being careful not to dislodge the DNA pellet
+13. Pour off supernatant gently, being careful not to dislodge the DNA pellet
 
 14. Add 700 uL ice-cold 70% ethanol and invert several times
 
 15. Centrifuge for 1 m at >10,000 RPM (or max for plate-centrifuge)
 
-16. Pour or pipet off supernatant, being careful not to dislodge the DNA pellet
+16. Pour off supernatant, being careful not to dislodge the DNA pellet
 
 17. Centrifuge for 1 m at >10,000 RPM (or max for plate-centrifuge)
 
-18. Pour or pipet off supernatant, being careful not to dislodge the DNA pellet
+18. Pour off supernatant, being careful not to dislodge the DNA pellet
 
-19. Dry the pellet in in a speed-vac for 20 m or place invert the tube/plate on a kimwipe or place in hood for 1 h to dry
+19. In the hood, invert the tube (gently!) on a kimwipe and let the pellet dry until the sample no longer smells of alcohol.
 
-20. Rehydrate DNA pellet with 100 uL TLE
+20. Rehydrate DNA pellet with 50 uL TLE (Tris-'low' EDTA)
 
 21. [optional] Quantify samples using Nanodrop
