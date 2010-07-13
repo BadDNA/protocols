@@ -1,8 +1,12 @@
-Title: CTAB DNA extraction from problematic plant materials
-Authors: Brant C. Faircloth
-Address1: Department of Ecology and Evolutionary Biology, University of California, Los Angeles, CA 90095, USA
-Contact:  Brant C. Faircloth
-ContactEmail:  brant.faircloth _at_ gmail _dot_ com
+Title:          CTAB DNA extraction from problematic plant materials
+Authors:        Brant C. Faircloth
+Address1:       Department of Ecology and Evolutionary Biology, University of California, Los Angeles, CA 90095, USA
+Contact:        Brant C. Faircloth
+ContactEmail:   brant.faircloth _at_ gmail _dot_ com
+Copyright:      2010 Brant Faircloth  
+                This work is licensed under a Creative Commons Attribution License.  
+                http://creativecommons.org/licenses/by/3.0/us/
+Keywords:       genotyping, size standard, ROX, LIZ
 
 # Summary #
 
