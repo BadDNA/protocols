@@ -6,9 +6,9 @@ ContactEmail:   brant.faircloth _at_ gmail _dot_ com
 Copyright:      2010 Brant Faircloth  
                 This work is licensed under a Creative Commons Attribution License.  
                 http://creativecommons.org/licenses/by/3.0/us/  
-Keywords:       genotyping, size standard, ROX, LIZ  
+Keywords:       CTAB, plants, DNA extraction, DNA purification
 
-# Summary #
+### Summary ###
 
 The following protocol is for CTAB extraction for plant materials + a pre-wash step for problematic templates (e.g. leaves).  The pre-wash treatment derives from Li et al. 2007.  The CTAB extraction is largely taken from the Soltis Lab DNA extraction protocol (which, itself, draws from Doyle and Doyle 1987 and Cullings 1992).
 
@@ -16,43 +16,31 @@ The pre-wash procedure helps deal with secondary plant compounds commonly found 
 
 PVP absorbs polyphenols in solution (the PVP then being removed by pipetting) while 2-mercaptoethanol (AKA β-mercaptoethanol) helps to break disulfide bonds (i,e. proteins).  CTAB, which is the other primary “ingredient” in the following protocol, binds polysaccharides, which are then removed from solution.
 
+### Goal ###
 
-# Main reference(s) #
+To remove PCR inhibitors from homogenates of plants prior to CTAB extraction
+
+### Main reference(s) ###
 
 * Cullings KC (1992) Design and testing of a plant-specific PCR primer for ecological and evolutionary studies. Mol Ecol 1: 233-240.
 * Doyle JD, Doyle JD (1987) A rapid DNA isolation procedure for small quantities of fresh leaf tissue. Phytochemistry Bulletin : 11-15.
 * Li JT, Yang J, Chen DC, Zhang XL, Tang ZS (2007) An optimized mini-preparation method to obtain high-quality genomic DNA from mature leaves of sunflower. Genet Mol Res 6: 1064-1071.
 * [Soltis Lab DNA Extraction Protocol](http://www.flmnh.ufl.edu/soltislab/Soltis_site/Protocols_files/CTAB%20DNA%20Extraction.pdf) (accessed 07 July 2010)
 
+### Inputs ###
 
-# Overview of Process #
+1. Homogenized plant tissue from above [pre-wash optional]
 
-1. CTAB Extraction
+### Outputs ###
 
-# Materials needed #
+1. Clean, high molecular-weight plant DNA for downstream analyses
+
+### Materials needed ###
 
 1. 1 M Tris-HCl
 2. 1 M Tris-Base (FW 121.1)
 3. 0.5 M EDTA
 4. CTAB | Amresco 0833-1KG
-
-## CTAB Extraction ##
-
-### Summary ###
-
-We will use CTAB, in combination with PVP and B-mercaptoethanol to capture or dissolve secondary compounds that are problematic during PCR.
-
-### Goal ###
-
-To remove PCR inhibitors from homogenates of plants prior to CTAB extraction
-
-### Inputs ###
-
-1. Pre-washed, homogenized plant tissue from above
-
-### Outputs ###
-
-1. Clean, high molecular-weight plant DNA for downstream analyses
 
 ### Detailed steps ###
 
