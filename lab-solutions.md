@@ -4,30 +4,15 @@ Address1: Department of Ecology and Evolutionary Biology, University of Californ
 Contact:  Brant C. Faircloth
 ContactEmail:  brant.faircloth _at_ gmail _dot_ com
 
-
-### Summary ###
-
-We need to prepare a number of solutions before we can begin to extract DNA following the modified Soltis CTAB protocol.  The solutions include Wash Buffer, CTAB, Tris-(low)EDTA, 
-
-### Goal ###
-
-To prepare the main solutions needed during the CTAB DNA extraction process.
-
 ### Inputs ###
+
+Attempt to list the input chemicals of all solutions here.
 
 1. Tris-HCl
 1. Tris-Base
 1. EDTA
 1. NaCl
 1. CTAB
-
-### Outputs ###
-
-1. CTAB Pre-wash Buffer
-1. CTAB Buffer
-1. TLE Buffer
-
-### Detailed steps ###
 
 #### CTAB Pre-wash Buffer (for 100 mL)####
 
