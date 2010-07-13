@@ -19,7 +19,7 @@ Detailed Steps:
 
 1. Into the fragmented & blunt-ended DNA, add the following for a 50 μL reaction
 
-    | Volume        | Name                                      |        SKU    |
+    Volume          | Name                                      |        SKU    |
     : --------------| :-----------------------------------------|--------------:|
     3.0 μL          | 10x NEB Buffer #2                         | (comes w/ Klenow) |
     4.0 μL          | dATP (0.25 mM -> 33 μM final)             | NEB # N0440S  |
