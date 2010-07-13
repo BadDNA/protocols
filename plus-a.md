@@ -1,11 +1,15 @@
-Title: Plus A
-Author: Travis C. Glenn1,2, [Kenneth L. Jones1,2, Myriam Belanger2,3, Roger Nilsen2] and Brant C. Faircloth4
-Address1: Department of Environmental Health Science, University of Georgia, Athens, GA 30602\-2102, USA
-Address2: Georgia Genomics Facility, University of Georgia, Athens, GA 30602\-2102, USA
-Address3: Department of Infectious Diseases, University of Georgia, Athens, GA 30602\-2102, USA
-Address4:  Department of Ecology and Evolutionary Biology, University of California, Los Angeles, CA 90095, USA
+Title: Plus A  
+Author: Travis C. Glenn1,2, [Kenneth L. Jones1,2, Myriam Belanger2,3, Roger Nilsen2] and Brant C. Faircloth4  
+Address1: Department of Environmental Health Science, University of Georgia, Athens, GA 30602\-2102, USA  
+Address2: Georgia Genomics Facility, University of Georgia, Athens, GA 30602\-2102, USA  
+Address3: Department of Infectious Diseases, University of Georgia, Athens, GA 30602\-2102, USA  
+Address4:  Department of Ecology and Evolutionary Biology, University of California, Los Angeles, CA 90095, USA  
 Contact: Travis C. Glenn
 ContactEmail:  travisg _at_ uga _dot_ edu
+Copyright:  2010 Travis Glenn
+        This work is licensed under a Creative Commons Attribution License.  
+        http://creativecommons.org/licenses/by/3.0/us/  
+Keywords:       plus-A, ligation
 
 ### Summary ###
 
