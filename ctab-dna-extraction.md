@@ -46,7 +46,7 @@ To remove PCR inhibitors from homogenates of plants prior to CTAB extraction
 
 1. Mix CTAB buffer, PVP, and B-mercaptoethanol as follows
 
-                      |     1X            |       30X     |       100X    |
+    Item              |     1X            |       30X     |       100X    |
      :------------    | :-----------:     | :-----------: | :-----------: |
     CTAB Buffer       |   500.00 uL       |     15.0 mL   |    50.0 mL
     PVP               |     0.02 g        |      0.6 g    |     2.0 g
