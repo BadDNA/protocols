@@ -15,18 +15,18 @@ After repairing the ends of the sheared fragments to make them blunt, we need to
 
 To add a single A to the 3’ end of each DNA molecule. 
 
-Detailed Steps:
+### Detailed Steps ###
 
 1. Into the fragmented & blunt-ended DNA, add the following for a 50 μL reaction
 
     Volume          | Name                                      |        SKU    |
     : --------------| :-----------------------------------------|--------------:|
-    3.0 μL          | 10x NEB Buffer #2                         | (comes w/ Klenow) |
-    4.0 μL          | dATP (0.25 mM -> 33 μM final)             | NEB # N0440S  |
-    2.0 μL          | dH2O                                      | Amresco # E476-100ML |
-    1.0 μL          | Klenow Fragment 3’->5’ exo-               | NEB # M0212   |
-    ----            |                                           |               |
-    20.0 μL         | DNA (from above)                          |               |
+    3.0 μL          | 10x NEB Buffer #2                         | (comes w/ Klenow)
+    4.0 μL          | dATP (0.25 mM -> 33 μM final)             | NEB # N0440S
+    2.0 μL          | dH2O                                      | Amresco # E476-100ML
+    1.0 μL          | Klenow Fragment 3’->5’ exo-               | NEB # M0212
+    ----            |                                           |
+    20.0 μL         | DNA (from above)                          |
 
 2. Mix by pipetting and pulse spin
 
