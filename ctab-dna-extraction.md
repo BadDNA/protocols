@@ -29,11 +29,11 @@ To remove PCR inhibitors from homogenates of plants prior to CTAB extraction
 
 ### Inputs ###
 
-1. Homogenized plant tissue from above [pre-wash optional]
+* Homogenized plant tissue from above [pre-wash optional]
 
 ### Outputs ###
 
-1. Clean, high molecular-weight plant DNA for downstream analyses
+* Clean, high molecular-weight plant DNA for downstream analyses
 
 ### Materials needed ###
 
@@ -46,17 +46,19 @@ To remove PCR inhibitors from homogenates of plants prior to CTAB extraction
 
 1. Mix CTAB buffer, PVP, and B-mercaptoethanol as follows
 
-    Item              |     1X            |       30X     |       100X    |
-     :------------    | :-----------:     | :-----------: | :-----------: |
-    CTAB Buffer       |   500.00 uL       |     15.0 mL   |    50.0 mL
-    PVP               |     0.02 g        |      0.6 g    |     2.0 g
-    B-mercaptoethanol |     2.5 uL        |     75.0 uL   |   250.0 uL
+    Item              |     1X            |       30X     |     50X     |       100X    |
+     :------------    | :-----------:     | :-----------: |:-----------:| :-----------: |
+    CTAB Buffer       |   500.00 uL       |     15.0 mL   |   25.0 mL   |  50.0 mL
+    PVP               |     0.02 g        |      0.6 g    |    1.0 g    |  2.0 g
+    B-mercaptoethanol |     2.5 uL        |     75.0 uL   |  125.0 uL   |  250.0 uL
 
-2. Add 20-30 uL of warm (55 C) CTAB buffer to a small amount (50 mg) of plant tissue in a mortar, and further grind the tissue for 2-3 minutes until it is a fine paste.  Add approximately 20 mg of the paste to a microtube (and do the same with the remaining paste if you have some left) [in hood]
+2. Add 500 uL of warm (55 C) CTAB buffer to a small amount (50-100 mg) of plant tissue in a mortar, and further grind the tissue for 2-3 minutes until it is a fine paste.  Add approximately 50 mg of the paste to a microtube (and do the same with the remaining paste if you have some left) [in hood]
 
 3. Add 500 uL of CTAB buffer mixture from above to the plant homogenates
 
 3. Incubate samples at 55 C for 1-2 h.  These can run overnight.
+
+4. [optional] Add 1.5 uL RNase A and incubate at 37 C for 15m
 
 4. Add 500 uL 24:1 chloroform:isoamyl alcohol to the microtube [in hood]
 
@@ -72,7 +74,7 @@ To remove PCR inhibitors from homogenates of plants prior to CTAB extraction
 
 10. Mix well by shaking
 
-11. Place in freezer for 15 m to overnight.  We have better yields overnight.
+11. Place in freezer for 15 m to overnight.  We have better yields overnight.  But, there are more contaminants in overnight incubations.
 
 12. Centrifuge for 3 m at >10,000 RPM (or max for plate-centrifuge)
 
@@ -83,6 +85,8 @@ To remove PCR inhibitors from homogenates of plants prior to CTAB extraction
 15. Centrifuge for 1 m at >10,000 RPM (or max for plate-centrifuge)
 
 16. Pour off supernatant, being careful not to dislodge the DNA pellet
+
+17. Add 700 uL ice-cold 95% ethanol and invert several times
 
 17. Centrifuge for 1 m at >10,000 RPM (or max for plate-centrifuge)
 
