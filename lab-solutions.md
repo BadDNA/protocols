@@ -23,14 +23,23 @@ Attempt to list the input chemicals of all solutions here.
 5. Mix gently by inverting
 6. [optional] Autoclave
 
-#### CTAB Buffer (for 500 mL) ####
+#### CTAB Buffer (for 50 mL) ####
 
-1. Add 50.0 mL 1 M Tris-Base to a 1 L graduated cylinder
-2. Add 140.0 mL 5 M NaCl
-3. Add 20.0 mL 0.5 M EDTA
-4. Add 10.0 g CTAB
-5. Bring up to 500 mL with dH2O
-6. Transfer to a 1 L glass container
+1. Add 5.0 mL 1 M Tris-Base to a 50 mL conical
+2. Add 14.0 mL 5 M NaCl
+3. Add 2.0 mL 0.5 M EDTA
+4. Add 1.0 g CTAB
+5. Bring up to 50 mL with dH2O
+6. Mix gently
+7. [optional] Autoclave
+
+#### CTAB Buffer (for 25 mL) ####
+
+1. Add 2.5 mL 1 M Tris-Base to a 50 mL conical
+2. Add 7.0 mL 5 M NaCl
+3. Add 1.0 mL 0.5 M EDTA
+4. Add 0.5 g CTAB
+5. Bring up to 25 mL with dH2O
 6. Mix gently
 7. [optional] Autoclave
 
