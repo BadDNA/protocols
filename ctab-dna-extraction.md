@@ -38,7 +38,6 @@ To remove PCR inhibitors from homogenates of plants prior to CTAB extraction
 ### Materials needed ###
 
 1. 1 M Tris-HCl
-2. 1 M Tris-Base (FW 121.1)
 3. 0.5 M EDTA
 4. CTAB | Amresco 0833-1KG
 

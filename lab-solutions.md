@@ -25,7 +25,7 @@ Attempt to list the input chemicals of all solutions here.
 
 #### CTAB Buffer (for 50 mL) ####
 
-1. Add 5.0 mL 1 M Tris-Base to a 50 mL conical
+1. Add 5.0 mL 1 M Tris-HCl to a 50 mL conical
 2. Add 14.0 mL 5 M NaCl
 3. Add 2.0 mL 0.5 M EDTA
 4. Add 1.0 g CTAB
@@ -35,7 +35,7 @@ Attempt to list the input chemicals of all solutions here.
 
 #### CTAB Buffer (for 25 mL) ####
 
-1. Add 2.5 mL 1 M Tris-Base to a 50 mL conical
+1. Add 2.5 mL 1 M Tris-HCl to a 50 mL conical
 2. Add 7.0 mL 5 M NaCl
 3. Add 1.0 mL 0.5 M EDTA
 4. Add 0.5 g CTAB
